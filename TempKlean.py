@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Temporary Files Cleanup Script
-Deletes temporary files from %LOCALAPPDATA%\Temp and C:\Windows\Temp
-Shows space recovered with a colorful graph similar to neofetch
-"""
 
 import os
 import shutil
