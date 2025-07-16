@@ -22,4 +22,4 @@ A simple python Python script to clean temporary files (from `%LOCALAPPDATA%\Tem
 2. **Run the script**:
 
    ```bash
-   python cleanup_temp.py
+   python TempKlean.py
